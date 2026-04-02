@@ -1,16 +1,46 @@
-## Hi there 👋
+# JY Core
 
-<!--
-**jycore-dev/jycore-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend systems and foundational services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Overview
+
+Focused on backend development and system design, with an emphasis on clear structure and reliability.
+
+---
+
+## Tech Stack
+
+- Java 17 (LTS)
+- Spring Boot 3
+- Spring Security
+- REST APIs
+- SQL / JPA
+
+---
+
+## Services
+
+### jycore-auth-service
+Authentication and authorization using JWT and role-based access control.
+
+### jycore-notification-service
+Handles asynchronous notification processing using a queue-based approach.
+
+### jycore-gateway
+Routes incoming requests to internal services and acts as a single entry point.
+
+---
+
+## Current Focus
+
+- Building clean service architecture
+- Improving system design and structure
+- Developing consistent backend patterns
+
+---
+
+## Contact
+
+- Email: jycore.dev@gmail.com
