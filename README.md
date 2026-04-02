@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="logo.svg" width="120"/>
+</p>
+
 # JY Core
 
 Backend systems and foundational services.
